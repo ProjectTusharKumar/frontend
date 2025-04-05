@@ -1,0 +1,11 @@
+'id',
+    'name',
+    'dob',
+    'Phone No',
+    'skills',
+    'doj',
+    'salary',
+    'attendance last year',
+    'projects completed',
+    'projects currently on',
+    'past projects'
